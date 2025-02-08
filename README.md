@@ -15,7 +15,7 @@ PixelDistributionViz is an interactive educational tool that visualizes pixel-le
 
 ## Demo 🎥
 
-If you have a live demo or screenshot, you can include it here:
+Coming soon!
   
 ![Demo Screenshot](path_to_your_screenshot.png)
 
